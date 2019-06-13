@@ -10,7 +10,7 @@ Figure II- 1 - TIM user interface (Top: Windows Operation System, and Bottom: Ma
 In the input variables section, users can enter the information required for computing the resilience dimensions and capacity. Figure II- 2 illustrates the TIM interface with red dashed rectangles highlighting the input section. The system performance level contains five variables in three groups. The performance-level prior to an incident indicates the system performance level under normal operation conditions. The performance level after the incident indicates the system performance level immediately after the incident when it reaches a stable level. The recovery process has not yet started at this point. The three control points, (F_1, F_2, and F_3) represent the system performance level for each end-user type at the time the recovery process is finished for the priority, urgent, and routine categories, respectively. If there exist DG systems in the region under investigation, the users can enter the capacity of the DG systems as a percentage of consumption for each end-user category. 
 To compute the Rapidity capacity, users are required to enter the variables in the recovery process section. The unit of time for the three variables in this section (tim scale factor, slack time, and duration of the recovery process) should be consistant. Finally the weight factors for both the end-user types and resilience dimensions provides the capability for user to apply any prioritization according to the results of other complimentary analysis such as life-cycle cost analysis.
 
- ![Figure_2] (https://github.com/Sean-Toroghi/TIM/issues/2)
+ ![Figure_2](https://github.com/Sean-Toroghi/TIM/issues/2)
  
 Figure II- 2 – TIM application: input variables. 
 
