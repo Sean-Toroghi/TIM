@@ -3,7 +3,8 @@ TIM application
 
 To facilitate the computation of resilience, we developed the TIM (Toolkit for Resilience Measurement) application. TIM is a stand alone executable application that is developed in two versions for Windows and Machintach operating systems. Both versions shares a similar user interface (Figure II- 1).To run TIM, there is no need to pre-install any other application. Users can enter all required input variables into the TIM and get the results. TIM computes the resilience capacity of the system as well as the fiv resilience dimensions. TIM is divided into three sections: input variables, results, and Other features. This appendix provides a brief manual for using the TIM to compute the resilience dimensios and capacity. Readers can access TIM via the Github depository at www.github.com/Sean-Toroghi/TIM.
  
- ![Figure_1](https://user-images.githubusercontent.com/50586266/59448392-08658e80-8dd3-11e9-9604-2e65c0b0c4ca.png)
+ ![Figure_1](https://user-images.githubusercontent.com/50586266/59449870-fafdd380-8dd5-11e9-97b1-7d2fa506b2f1.png)
+ ![Figure_1](https://user-images.githubusercontent.com/50586266/59449891-0a7d1c80-8dd6-11e9-8491-855175dce7c7.png)
  
 Figure II- 1 - TIM user interface (Top: Windows Operation System, and Bottom: MacintoshOperation System).
 
